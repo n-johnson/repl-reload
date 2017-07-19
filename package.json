@@ -1,0 +1,16 @@
+{
+  "name": "repl-reload",
+  "main": "index.js",
+  "license": "MIT",
+  "authors": [
+    "Nathan Johnson"
+  ],
+  "description": "Watch script to automatically reload a module being developed inside of a REPL.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/n-johnson/repl-reload.git"
+  },
+  "engines": {
+    "node": ">= 6.0.0"
+  }
+}
